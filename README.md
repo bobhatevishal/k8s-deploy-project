@@ -1,6 +1,4 @@
-💪 **Bhai full ready!**
-Ab main **AWS EKS pe poore Kubernetes project** ka **complete step-by-step guide** deta hoon.
-Tum bas **copy-paste karo aur test karo**, koi confusion hoga toh poochhna.
+
 
 ---
 
@@ -480,10 +478,3 @@ kubectl autoscale deployment backend -n myproject --cpu-percent=50 --min=2 --max
 
 ---
 
-✅ **Ho gaya!**
-Ye pura project AWS EKS pe **end-to-end** chal jayega.
-
----
-
-💬 **Agar kisi step pe error aaye ya aur detail chahiye, seedha batao bhai.**
-Main yahin hoon help ke liye. 🚀
